@@ -9,13 +9,13 @@ body{
 
 
 .header{
-	background-image:  url("../media/fondo/bg-header.jpg");
+	background-image:  url("../media/fondo/este.jpg");
 	background-position: center;
 	background-size: cover;
 	position: relative;
  }
  .bg{
-	background-image: url("../media/fondo/registrocontacto.jpg");
+	background-image: url("../media/fondo/este1.jpg");
 	background-position: center center;
 }
  .img-logo{
@@ -35,7 +35,7 @@ body{
 
 /* cliente sy mnarcas*/
 .bg-purple{
-	background-color: rgb(149, 152, 104);
+	background-color: rgb(163, 219, 241);
 	filter: opacity(0.55);
 }
 
@@ -97,6 +97,7 @@ body{
 footer{
 	margin-top: 10px;
 }
+/*
 .titulo-final-footer{
 	text-align: center;
 	font-size: 24px;
