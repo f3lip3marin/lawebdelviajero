@@ -35,16 +35,15 @@ body{
 
 /* cliente sy mnarcas*/
 .bg-purple{
-	background-color: red;
+	background-color: rgb(149, 152, 104);
 	filter: opacity(0.55);
 }
 
-.div-servicio{
-		overflow-x: hidden; 
-		overflow-y: auto;
-		max-width: 100%;	
-}
+.sec-clientes a:hover{
+	filter: opacity(0.5);
 
+
+}
 .header::after{
 	content: "";
 	display: block;
@@ -76,7 +75,7 @@ body{
 }
 
 
-footer{
+/*footer{
     background: #414141;
 	padding: 60px 0 30px 0;
 	margin: auto;
@@ -94,6 +93,9 @@ footer{
             color: #ccc;
         }
     }
+}*/
+footer{
+	margin-top: 10px;
 }
 .titulo-final-footer{
 	text-align: center;
